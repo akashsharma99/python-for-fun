@@ -1,3 +1,6 @@
+"""
+A simple python program to send email from a gmail account to any other mail service
+"""
 from smtplib import SMTP, SMTPAuthenticationError
 import getpass
 host="smtp.gmail.com"
