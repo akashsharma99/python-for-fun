@@ -1,2 +1,2 @@
-# python-scripting
+# python-for-fun
 python for fun
