@@ -1,5 +1,5 @@
 """This little script is an attempt to automate the following simple task:
-1.Goes to the assets folder
+1.Goes to the assets folder where windows spotlight wallpapers are stored
 2.Looks for files modified within last 30 days and of size more than 100 KiloBytes
 3.copies these files to your pictures folder
 4.renames all files with their time of modification and adds a '.jpg' extension to them."""
